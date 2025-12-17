@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML/Project/dynamic_price_engine/mlruns/983568342266629608/4b5e38fe8734437d846bee5ecc95e6b6/artifacts
+end_time: 1765547605618
+entry_point_name: ''
+experiment_id: '983568342266629608'
+lifecycle_stage: active
+run_id: 4b5e38fe8734437d846bee5ecc95e6b6
+run_name: LinearRegression_Baseline
+run_uuid: 4b5e38fe8734437d846bee5ecc95e6b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765547605559
+status: 3
+tags: []
+user_id: Amits

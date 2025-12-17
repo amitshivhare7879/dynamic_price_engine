@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/ML/Project/dynamic_price_engine/mlruns/983568342266629608/2bdda459429b42869a45397d4d157805/artifacts
+end_time: 1765545919587
+entry_point_name: ''
+experiment_id: '983568342266629608'
+lifecycle_stage: active
+run_id: 2bdda459429b42869a45397d4d157805
+run_name: XGBoost_100
+run_uuid: 2bdda459429b42869a45397d4d157805
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765545919266
+status: 3
+tags: []
+user_id: Amits

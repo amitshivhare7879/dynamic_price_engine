@@ -1,0 +1,16 @@
+feature_name
+Number_of_Drivers
+Number_of_Past_Rides
+Average_Ratings
+Expected_Ride_Duration
+rider_driver_ratio
+log_cost
+avg_ratings_sq
+Location_Category_Suburban
+Location_Category_Urban
+Customer_Loyalty_Status_Regular
+Customer_Loyalty_Status_Silver
+Time_of_Booking_Evening
+Time_of_Booking_Morning
+Time_of_Booking_Night
+Vehicle_Type_Premium
