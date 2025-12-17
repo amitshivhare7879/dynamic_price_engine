@@ -5,7 +5,7 @@ import pandas as pd
 import altair as alt
 
 # --- Configuration ---
-API_URL = "http://127.0.0.1:8001/recommend_price" 
+API_URL = "https://dynamic-price-engine-g62s.onrender.com/recommend_price"
 REQUIRED_MARGIN = 1.2 
 
 st.set_page_config(
